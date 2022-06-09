@@ -10,7 +10,7 @@ title: Thoughts
 email: jacqueman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Stuff I want to say, I guess
-baseurl: "/jackmeagher.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jackmeagher.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  jackmeagher
